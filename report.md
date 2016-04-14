@@ -37,16 +37,21 @@ is 100 uniform partition  from t = 0 to 5. When everything is ready, I used the 
 to help us to solve this nonlinear ODE system.
 
 Put your graphs here and explain.
+
 ![yt_plot_0.1.png](yt_plot_0.1.png)
+
 This is the graph of y0 and y1 against t, where the initial condition is y0 = 0.1, y1 = 1.0
 
 ![yy_plot_0.1.png](yy_plot_0.1.png)
+
 This is the graph of y1 against y0, where the initial condition is y0 = 0.1, y1 = 1.0 
 
 ![yt_plot_0.11.png](yt_plot_0.11.png)
+
 This is the graph of y0 and y1 against t, where the initial condition is y0 = 0.11, y1 = 1.0
 
 ![yy_plot_0.11.png](yy_plot_0.11.png)
+
 This is the graph of y1 against y0, where the initial condition is y0 = 0.11, y1 = 1.0 
 
 Is the system of ODE sensitive to initial condition? Explain.
