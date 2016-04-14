@@ -59,7 +59,7 @@ This is the graph of y1 against y0, where the initial condition is y0 = 0.11, y1
 
 Is the system of ODE sensitive to initial condition? Explain.
 
-As you can see difference between the graph for both case are not significant, this implies that the
+As you can see difference between the graph for both case is not significant, this implies that the
 system of ODE is not sensitive to initial condition.
 
 -----------------------------------
