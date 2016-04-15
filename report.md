@@ -43,19 +43,19 @@ Put your graphs here and explain.
 
 ![yt_plot_0.1.png](yt_plot_0.1.png)
 
-This is the graph of y0 and y1 against t, where the initial condition is y0 = 0.1, y1 = 1.0
+This is the graph of Prey y0 and Predator y1 against Year t, where the initial condition is y0 = 0.1, y1 = 1.0
 
 ![yy_plot_0.1.png](yy_plot_0.1.png)
 
-This is the graph of y1 against y0, where the initial condition is y0 = 0.1, y1 = 1.0 
+This is the graph of Predator y1 against Prey y0, where the initial condition is y0 = 0.1, y1 = 1.0 
 
 ![yt_plot_0.11.png](yt_plot_0.11.png)
 
-This is the graph of y0 and y1 against t, where the initial condition is y0 = 0.11, y1 = 1.0
+This is the graph of Prey y0 and Predator y1 against Year t, where the initial condition is y0 = 0.11, y1 = 1.0
 
 ![yy_plot_0.11.png](yy_plot_0.11.png)
 
-This is the graph of y1 against y0, where the initial condition is y0 = 0.11, y1 = 1.0 
+This is the graph of Predator y1 against Prey y0, where the initial condition is y0 = 0.11, y1 = 1.0 
 
 Is the system of ODE sensitive to initial condition? Explain.
 
